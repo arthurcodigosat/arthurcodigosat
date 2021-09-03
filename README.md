@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I hope to collaborate with great projects and leave my knowledge in these projects.
 - 📫 How to reach me directly to my website, or linkedin
+- https://www.linkedin.com/in/arturo-tovar-/
+- https://codigosat.com/
+
 
 <!---
 arthurcodigosat/arthurcodigosat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
